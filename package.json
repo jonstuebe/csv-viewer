@@ -1,0 +1,22 @@
+{
+  "name": "csv-viewer",
+  "description": "",
+  "version": "0.0.153",
+  "dependencies": {
+    "savery": "1.2.0",
+    "react-dropzone": "4.2.5",
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "material-ui": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
